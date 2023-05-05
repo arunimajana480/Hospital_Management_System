@@ -48,4 +48,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-If you have any questions or feedback, please contact the author at [email address].
+If you have any questions or feedback, please contact the author at [arunimajana112.in@gmail.com].
